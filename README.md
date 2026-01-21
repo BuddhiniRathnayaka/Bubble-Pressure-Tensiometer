@@ -42,10 +42,3 @@ This project demonstrates skills in **embedded systems design, sensor data acqui
 4. Gradually press the **syringe** to increase air pressure until a bubble is formed and detaches from the capillary tip; the pressure sensors continuously measure the pressure during this process.  
 5. Press the **Calculate** button.  
 6. The calculated **surface tension** value is displayed on the LCD screen.
-
----
-
-## Repository Structure
-├── bubblePressureTensiometer.ino # Embedded firmware
-├── Simulation/ # Proteus simulation files
-└── README.md
