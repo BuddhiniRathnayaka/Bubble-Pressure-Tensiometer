@@ -43,6 +43,9 @@ This project demonstrates skills in **embedded systems design, sensor data acqui
 5. Press the **Calculate** button.  
 6. The calculated **surface tension** value is displayed on the LCD screen.
 
-├── bubblePressureTensiometer.ino   # Embedded firmware
-├── Simulation/                     # Proteus simulation files
+---
+
+## Repository Structure
+├── bubblePressureTensiometer.ino # Embedded firmware
+├── Simulation/ # Proteus simulation files
 └── README.md
